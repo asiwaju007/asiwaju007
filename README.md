@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @asiwaju007
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning CSS
-- 💞️ I’m looking to collaborate on a developing a SaaS 
+- 💞️ I’m looking to collaborate on developing a SaaS 
 - 📫 How to reach me on Twitter.com/flxade
 
 <!---
